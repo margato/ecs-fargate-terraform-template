@@ -1,0 +1,4 @@
+.terraform*
+.idea/**
+*.tfstate*
+gcp_key.json
