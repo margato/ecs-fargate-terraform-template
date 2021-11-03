@@ -4,7 +4,7 @@ The main purpose of this template was to practice my skills with Terraform and A
 If you are going to use this template in your project, don't forget to update `vars-{ENV}.tfvars` file to include your own values.
 
 ## Architecture
-![](./ecs-fargate-template.png)
+![](./image.png)
 
 ### Deployment
 To provision resources, execute:
